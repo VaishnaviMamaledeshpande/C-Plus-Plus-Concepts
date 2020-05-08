@@ -1,2 +1,3 @@
-# C-primer
-The project is mainly created to practice excercise questions from c++ primer book
+# C++- Learner 
+The repository is intended to have C++ concepts
+Part1 : Solutions to the problem statements from C++ Primer 5th Edition
